@@ -1,0 +1,9 @@
+﻿  stereo_match.cpp
+d:\桌面\project1\stero_match\99\stereo_match.cpp(74): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\桌面\project1\stero_match\99\stereo_match.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  89 of 421 functions (21.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  99.vcxproj -> D:\桌面\project1\stero_match\x64\Release\99.exe

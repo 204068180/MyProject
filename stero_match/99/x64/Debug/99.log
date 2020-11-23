@@ -1,0 +1,3 @@
+﻿  stereo_match.cpp
+d:\kdubasoftdownloads\stero_match - my - 1\99\stereo_match.cpp(290): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  99.vcxproj -> D:\KDubaSoftDownloads\stero_match - my - 1\x64\Debug\99.exe

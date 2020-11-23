@@ -1,0 +1,24 @@
+%YAML:1.0
+---
+cameraMatrixL: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 4.2441500926874158e+02, 0., 3.4256454825695607e+02, 0.,
+       4.2439077420548961e+02, 2.7196997670601462e+02, 0., 0., 1. ]
+cameraDistcoeffL: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 1.2366014865877000e-02, -3.1791002293546779e-04, 0., 0., 0. ]
+cameraMatrixR: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 4.2355416891387750e+02, 0., 3.4331179002726310e+02, 0.,
+       4.2351029299504933e+02, 2.7259123332316932e+02, 0., 0., 1. ]
+cameraDistcoeffR: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 2.0262263290689999e-02, -1.9698020637040001e-02, 0., 0., 0. ]
